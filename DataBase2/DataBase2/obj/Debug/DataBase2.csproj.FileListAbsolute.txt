@@ -1,0 +1,13 @@
+c:\users\константин\documents\visual studio 2013\Projects\DataBase2\DataBase2\bin\Debug\DataBase2.exe.config
+c:\users\константин\documents\visual studio 2013\Projects\DataBase2\DataBase2\bin\Debug\DataBase2.exe
+c:\users\константин\documents\visual studio 2013\Projects\DataBase2\DataBase2\bin\Debug\DataBase2.pdb
+c:\users\константин\documents\visual studio 2013\Projects\DataBase2\DataBase2\obj\Debug\DataBase2.csprojResolveAssemblyReference.cache
+c:\users\константин\documents\visual studio 2013\Projects\DataBase2\DataBase2\obj\Debug\DataBase2.Form1.resources
+c:\users\константин\documents\visual studio 2013\Projects\DataBase2\DataBase2\obj\Debug\DataBase2.Form2.resources
+c:\users\константин\documents\visual studio 2013\Projects\DataBase2\DataBase2\obj\Debug\DataBase2.Form3.resources
+c:\users\константин\documents\visual studio 2013\Projects\DataBase2\DataBase2\obj\Debug\DataBase2.Form4.resources
+c:\users\константин\documents\visual studio 2013\Projects\DataBase2\DataBase2\obj\Debug\DataBase2.Form5.resources
+c:\users\константин\documents\visual studio 2013\Projects\DataBase2\DataBase2\obj\Debug\DataBase2.Properties.Resources.resources
+c:\users\константин\documents\visual studio 2013\Projects\DataBase2\DataBase2\obj\Debug\DataBase2.csproj.GenerateResource.Cache
+c:\users\константин\documents\visual studio 2013\Projects\DataBase2\DataBase2\obj\Debug\DataBase2.exe
+c:\users\константин\documents\visual studio 2013\Projects\DataBase2\DataBase2\obj\Debug\DataBase2.pdb
